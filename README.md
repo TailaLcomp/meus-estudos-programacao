@@ -1,6 +1,6 @@
 # Meus estudos em programação
 
-Olá! Meu nome é Taila Caroline.
+Iai! Meu nome é Taila Caroline.
 
 Estou aprendendo:
 - HTML
